@@ -5,4 +5,5 @@ This is series of JavaScript projects for 30 days
 1. Basic Arithematic Calculator
 2. Digital Clock
 3. Notepad
+4. Slider
 
