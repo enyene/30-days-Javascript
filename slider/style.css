@@ -1,0 +1,11 @@
+body{
+    background-color: brown;
+    display: grid;
+    height: 100vh;
+  place-items: center;
+}
+
+svg{
+    color: aliceblue;
+    width: 25px;
+}
