@@ -6,4 +6,5 @@ This is series of JavaScript projects for 30 days
 2. Digital Clock
 3. Notepad
 4. Slider
+5. Text to Speech
 
